@@ -72,8 +72,7 @@ docker-compose up --build
 
 **Access**
 - Backend: http://localhost:8000  
-- Frontend: http://localhost:5173  
-- API Docs: http://localhost:8000/docs  
+- Frontend: http://localhost:5173    
 - MongoDB: localhost:27017
 
 ---
