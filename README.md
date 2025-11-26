@@ -64,7 +64,7 @@ pair-programming-app/
 
 **Steps**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ayush123-bit/Tredence
 cd pair-programming-app
 
 docker-compose up --build
