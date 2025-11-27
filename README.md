@@ -64,7 +64,7 @@ pair-programming-app/
 
 **Steps**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ayush123-bit/Tredence
 cd pair-programming-app
 
 docker-compose up --build
@@ -72,8 +72,7 @@ docker-compose up --build
 
 **Access**
 - Backend: http://localhost:8000  
-- Frontend: http://localhost:5173  
-- API Docs: http://localhost:8000/docs  
+- Frontend: http://localhost:5173    
 - MongoDB: localhost:27017
 
 ---
