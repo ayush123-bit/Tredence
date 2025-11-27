@@ -9,7 +9,8 @@ export class WebSocketService {
   }
 
   connect() {
-    this.ws = new WebSocket(`ws://localhost:8000/ws/${this.roomId}`)
+  this.ws = new WebSocket(`wss://tredence-backend-318c.onrender.com/ws/${this.roomId}`);
+
     
     this.ws.onopen = () => {
       console.log('WebSocket connected')

@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8000/api'
+const API_BASE = 'https://tredence-backend-318c.onrender.com/api'
 
 export interface Room {
   room_id: string
