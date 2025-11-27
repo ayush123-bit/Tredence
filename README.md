@@ -297,16 +297,3 @@ Indexes:
 - Production-grade MongoDB setup (replica sets / sharding)
 
 ---
-
-## ✅ Contribution & License
-
-Contributions are welcome. Please open issues or PRs against the repository. Include tests and update documentation where appropriate.
-
----
-
-If you'd like, I can also:
-- Add badges (build, coverage, license)  
-- Insert screenshots or a short GIF demo  
-- Generate a compact Table of Contents for the README  
-- Create sample `.env.example` and `docker-compose.override.yml`
-
